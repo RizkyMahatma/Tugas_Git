@@ -1,1 +1,1 @@
-reset revert lagi
+tugas akhir
